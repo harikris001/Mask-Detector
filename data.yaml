@@ -1,0 +1,5 @@
+train: data/train/images
+val: data/val/images 
+
+nc: 3
+names: ['with_mask', 'without_mask', 'mask_weared _incorrect']
