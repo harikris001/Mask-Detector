@@ -16,7 +16,17 @@ A Realtime Mask-detector model created with yolov8
 ### Modifiying Data
 
 The data was in Xml annotation Labels but yolo require txt format<br>
-So converting them to yolo format using the foolowing code:[`refrence`](https://gist.github.com/Amir22010/a99f18ca19112bc7db0872a36a03a1ec)
+So converting them to yolo format using the foolowing code:[`refrence`](https://gist.github.com/Amir22010/a99f18ca19112bc7db0872a36a03a1ec) .<br>
+Or you can do them manually if you are using your custom dataset using labelImg<br>
+
+### Working with LabelImg
+* open cmd in working directory
+* activate venv
+* type ```labelImg``` in cmd
+* Open dataset Directory and label your images 
+**note: don't forget to set format to yolo in labelImg**
+
+For more info about LabelImg refer: https://github.com/heartexlabs/labelImg
 
 ## Setting Up Pytorch
 _I would recoomend you to check official Pytorch website to install it_<br>
