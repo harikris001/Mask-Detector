@@ -71,3 +71,14 @@ to launch jupyter notebooks ```jupyter notebook``` in cmd<br>
 * [`Yolo Documentation`](https://docs.ultralytics.com/quickstart/)
 * StackOverflow
 * [`OpenCv Documentation`](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+
+<hr>
+<hr>
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/harikris001" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
